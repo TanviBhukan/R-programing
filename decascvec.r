@@ -1,0 +1,7 @@
+t= c(16, 60, 2, 40, 27, 8, 54, 1)
+print("Updated Vector:")
+print(t)
+print("Sorted in ascending order:")
+print(sort(t))
+print("Sorted in descending order:")
+print(sort(t, decreasing=TRUE))
